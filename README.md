@@ -15,7 +15,7 @@ And then execute:
 
 ## About
 
-We use 2PC (two phase commit) simplified approach.
+We use 2PC (two phase commit) based simplified approach.
 If you want to use true 2PC, look at Zookeeper for transaction management.
 
 When record mutate
