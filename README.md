@@ -1,6 +1,6 @@
 # Replicator::Consistent
 
-Extension for [replicator](http://github.com/fatum/replicator) which provides eventual consistency
+Extension for [replicator](http://github.com/fatum/replicator) which provides transactions supports
 
 ## Installation
 
